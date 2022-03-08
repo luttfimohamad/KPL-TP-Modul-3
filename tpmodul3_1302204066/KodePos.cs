@@ -54,7 +54,10 @@ namespace tpmodul3_1302204066
             {
                 return "40273";
             }
-            return null;
+            else
+            {
+                return "Tidak tersedia";
+            }
         }
     }
 }
